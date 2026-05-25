@@ -23,9 +23,8 @@
 ## 🚀 Быстрый старт
 
 `bash
-# 1. Клонируй репозиторий
-git clone https://github.com/ТВОЙ_НИК/FsyCorp-DDoS-Tools.git
-cd FsyCorp-DDoS-Tools
+# 1. Перейди по ссылке и скачайте нужный скрипт
+https://t.me/FsyCorp
 
 # 2. Установи зависимости
 pip install -r requirements.txt
@@ -34,4 +33,4 @@ pip install -r requirements.txt
 python proxy_manager/proxy_manager.py
 
 # 4. После скачивания прокси — запусти DDoS Tester
-python ddos/ddos.py
+python названиескрипта.py
