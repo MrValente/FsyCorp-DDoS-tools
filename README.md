@@ -1,8 +1,8 @@
 # @FsyCorp DDoS Tools | MRVALENTE
 
-![Telegram (https://img.shields.io/badge/Telegram-@FsyCorp-blue)](https://t.me/FsyCorp)
-![License (https://img.shields.io/badge/License-MIT-green)](LICENSE)
-![Python (https://img.shields.io/badge/Python-3.10+-yellow)](https://python.org)
+![Telegram](https://t.me/FsyCorp)
+![License (LICENSE)
+![Python 3.10](https://www.python.org/downloads/release/python-3100/)
 
 > Инструменты для нагрузочного тестирования своих серверов.
 > Только для образовательных целей! Автор ответственности не несет.
